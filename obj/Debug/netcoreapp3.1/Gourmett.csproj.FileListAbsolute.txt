@@ -1,0 +1,13 @@
+C:\Users\Paulo Vitor\source\repos\Gourmett\Gourmett\obj\Debug\netcoreapp3.1\Gourmett.csprojAssemblyReference.cache
+C:\Users\Paulo Vitor\source\repos\Gourmett\Gourmett\obj\Debug\netcoreapp3.1\Gourmett.AssemblyInfoInputs.cache
+C:\Users\Paulo Vitor\source\repos\Gourmett\Gourmett\obj\Debug\netcoreapp3.1\Gourmett.AssemblyInfo.cs
+C:\Users\Paulo Vitor\source\repos\Gourmett\Gourmett\obj\Debug\netcoreapp3.1\Gourmett.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Vitor\source\repos\Gourmett\Gourmett\bin\Debug\netcoreapp3.1\Gourmett.exe
+C:\Users\Paulo Vitor\source\repos\Gourmett\Gourmett\bin\Debug\netcoreapp3.1\Gourmett.deps.json
+C:\Users\Paulo Vitor\source\repos\Gourmett\Gourmett\bin\Debug\netcoreapp3.1\Gourmett.runtimeconfig.json
+C:\Users\Paulo Vitor\source\repos\Gourmett\Gourmett\bin\Debug\netcoreapp3.1\Gourmett.runtimeconfig.dev.json
+C:\Users\Paulo Vitor\source\repos\Gourmett\Gourmett\bin\Debug\netcoreapp3.1\Gourmett.dll
+C:\Users\Paulo Vitor\source\repos\Gourmett\Gourmett\bin\Debug\netcoreapp3.1\Gourmett.pdb
+C:\Users\Paulo Vitor\source\repos\Gourmett\Gourmett\obj\Debug\netcoreapp3.1\Gourmett.dll
+C:\Users\Paulo Vitor\source\repos\Gourmett\Gourmett\obj\Debug\netcoreapp3.1\Gourmett.pdb
+C:\Users\Paulo Vitor\source\repos\Gourmett\Gourmett\obj\Debug\netcoreapp3.1\Gourmett.genruntimeconfig.cache
