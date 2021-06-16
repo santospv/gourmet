@@ -9,5 +9,7 @@ namespace Gourmett
         public Prato() { }
         public string Nome { get; set; }
         public string Descricao { get; set; }
+        public int tipo { get; set; }
+
     }
 }
